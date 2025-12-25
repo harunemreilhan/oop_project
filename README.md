@@ -134,5 +134,4 @@ OOP_Project/
 │   ├── Gradebook.java     # Central management class (Singleton)
 │   └── Main.java          # Application entry point with console UI
 ├── README.md              # This documentation file
-└── presentation.md        # Detailed code explanations for defense
 ```
