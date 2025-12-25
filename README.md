@@ -29,7 +29,7 @@ The School Gradebook System is designed using object-oriented principles to mode
 
 ### UML Class Diagram
 
-![README.png](School%20Gradebook%20System/README.png)
+![README.png](/README.png)
 
 ---
 
